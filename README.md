@@ -1,2 +1,2 @@
 # pixellator
-make you web cam image in a slow res pixeled image
+make your web cam image in a slow res pixeled image
